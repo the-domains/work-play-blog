@@ -14,12 +14,12 @@ layout_spectrum: 0.9831583010964096
 author:
   name: Jennifer Vincent
   email: community@coworkpenticton.com
-name: Cowork Penticton's work & play blog
+name: cowork penticton's work & play blog
 navigation:
   - name: Visit our Coworking site
     url: www.coworkpenticton.com
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a278744a-f3b6-4d8a-b3d9-9a6cf4f81e5c.jpg
-title: Cowork Penticton's Work & Play Blog
+title: cowork penticton's work & play blog
 description: You're busy. Here's a curated feed of great stuff.
